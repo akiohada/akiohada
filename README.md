@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akiohada
 - 👀 I’m interested in Sci-Fi, Fantasy, Outdoor.
-- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on TRPG services.
 
 <!---
